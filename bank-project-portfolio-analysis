@@ -1,8 +1,8 @@
 Bank-Project-Portfolio-Analytics/
 │
-├── notebooks/
-├── data/
-├── database/
-├── power_bi/
-├── sql_queries/
-└── README.md
+├── notebooks/        # Python data cleaning & modeling
+├── data/             # Raw and transformed datasets
+├── database/         # SQLite database file
+├── power_bi/         # Executive dashboard (.pbix)
+├── sql_queries/      # SQL scripts for KPI computation
+└── README.md         # Project documentation
