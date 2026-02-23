@@ -82,7 +82,6 @@ The bank is strong at automation-driven productivity gains, but weaker in organi
 This is critical because:
 - FTE savings directly impact Cost-to-Income Ratio
 - Overstated savings distort capital allocation decisions
-<img width="921" height="503" alt="image" src="https://github.com/user-attachments/assets/716a240d-ca3b-4e38-be32-65657d667345" />
 
 3️⃣ ROI Distribution Across Portfolio
 
@@ -98,6 +97,7 @@ Capital may be better concentrated in:
 - High-automation programs
 - Customer acquisition & digital revenue projects
 - Data & analytics transformation initiatives
+<img width="960" height="529" alt="image" src="https://github.com/user-attachments/assets/cbab9896-c89b-44a6-81eb-a9837191773c" />
 
 4️⃣ Portfolio Prioritization Misalignment
 
