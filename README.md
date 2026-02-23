@@ -68,12 +68,23 @@ The "Productivity Sweet Spot": Small-to-medium-sized projects (costing < 1.5M) a
 <img width="929" height="505" alt="image" src="https://github.com/user-attachments/assets/ebad54b7-a918-46fc-ad2d-39c5050510eb" />
 
 3. Project Prioritization & Risk
-Top Performers: "The Coding Expert" and "Switch And Swift" (Credit Risk) are the portfolio's "North Stars," achieving ROI over 60% with positive cost variances.
+**High-Yield Leadership**
+The top tier of the portfolio is driven by high-performing initiatives primarily within Credit Risk and Operations.
 
-Underperformance Warning: Several projects in the Operations and Marketing sectors (e.g., "Match of Health", "Box of Crayons") show significant negative cost variances (marked in red). These projects are eroding the gains made by the top performers and require immediate governance intervention.
+Portfolio Benchmarks: Top-performing projects like "The Coding Expert" (72.40% ROI) and "Switch and Swift" (63.13% ROI) demonstrate high efficiency while maintaining positive cost variances.
+
+Average Top Performance: The top 5 projects by ROI maintain an impressive average ROI of 60.32%, significantly lifting the overall portfolio health.
+
+**Critical Risk & Variance Exposure**
+While high-ROI projects are succeeding, a subset of the portfolio is experiencing significant capital erosion.
+
+Cost Variance Concerns: The bottom 5 projects are currently responsible for a cumulative negative cost variance of -1.69M.
+
+Underperformance Alert: Projects such as "The Principal of Change" and "Code Change Group" show significant budget overruns exceeding -280k each, despite delivering relatively low ROI (13%–15%).
+
+Zero-Value Initiatives: Project "Skill Up" in Marketing represents a critical risk, showing 0.00% ROI and a negative cost variance of -325k, indicating a total lack of benefits realization.
 
 <img width="922" height="504" alt="image" src="https://github.com/user-attachments/assets/bd99ef78-8831-4459-8f26-7db9725f9f67" />
-
 
 ## Recommendations
 
