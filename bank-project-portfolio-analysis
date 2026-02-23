@@ -1,0 +1,8 @@
+Bank-Project-Portfolio-Analytics/
+│
+├── notebooks/
+├── data/
+├── database/
+├── power_bi/
+├── sql_queries/
+└── README.md
