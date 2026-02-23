@@ -1,4 +1,4 @@
-# Bank-Project-Portfolio-Analytics
+# Bank Project Portfolio Analytics
 Author: Mark Roland Waje  
 Role Focus: Data Analytics | Banking Transformation | Portfolio Governance  
 
