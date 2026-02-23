@@ -1,4 +1,7 @@
 # Bank-Project-Portfolio-Analytics
+Author: Mark Roland Waje  
+Role Focus: Data Analytics | Banking Transformation | Portfolio Governance  
+
 Portfolio governance and benefits realization analytics framework for a Philippine universal bank.
 
 📌 Project Overview
