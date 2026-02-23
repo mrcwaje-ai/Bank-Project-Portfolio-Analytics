@@ -53,69 +53,27 @@ These datasets were combined to simulate:
 
 ## Insights
 
-1️⃣ Portfolio Financial Performance
+1. Portfolio Financial Health & Efficiency
+Capital Discipline: The portfolio shows strong financial control with a Total Actual Cost of 166.15M against a Portfolio ROI of 11.60%. While the overall ROI is healthy, the "Actual Cost vs ROI%" scatter plot reveals a heavy concentration of "Low ROI" projects (72.73%) consuming significant capital.
 
-🔎 Finding 1: Cost Variance Concentration
+Budget Precision: The "Planned vs. Actual Cost" analysis indicates high maturity in budgeting across most departments. However, Credit Risk and Operations show minor cost overruns (negative cost variance), whereas IT and Marketing are currently operating under budget, suggesting potential for capital reallocation.
 
-35–45% of projects show negative cost variance (Actual > Planned).
-IT-heavy projects tend to exceed budget more frequently.
-Large-scale transformation initiatives show higher variance volatility.
+<img width="929" height="523" alt="image" src="https://github.com/user-attachments/assets/db14b62f-37d6-4ff3-ba2a-0d9392fef899" />
 
-Board-Level Interpretation:
-Cost overruns are not random — they are concentrated in high-complexity projects. This signals either:
-- Underestimation at approval stage
-- Scope creep
-- Weak financial controls during execution
+2. Strategic Value Realization (FTE Savings)
+High-Impact Departments: Operations and Marketing are the primary engines for efficiency, contributing nearly 50% of the total 19.28M FTE savings.
 
-<img width="930" height="507" alt="image" src="https://github.com/user-attachments/assets/ace95e9b-ab3d-46f1-a3c8-1a49ef5568d7" />
+The "Productivity Sweet Spot": Small-to-medium-sized projects (costing < 1.5M) are delivering the highest density of ROI. High-cost projects ( > 2.5M) tend to see diminishing returns in percentage-based ROI, suggesting that "micro-transformations" may be more efficient than "megaprojects."
 
-2️⃣ FTE Savings Realization (Core Banking Relevance)
+<img width="929" height="505" alt="image" src="https://github.com/user-attachments/assets/ebad54b7-a918-46fc-ad2d-39c5050510eb" />
 
-🔎 Finding 2: Planned vs Actual FTE Savings Gap
-- Several projects forecast FTE reduction but actual realized savings lag by 20–30%.
-- Process automation projects produce the highest realized FTE efficiency.
-- Manual process reengineering projects underperform expectations.
+3. Project Prioritization & Risk
+Top Performers: "The Coding Expert" and "Switch And Swift" (Credit Risk) are the portfolio's "North Stars," achieving ROI over 60% with positive cost variances.
 
-Board-Level Interpretation:
-The bank is strong at automation-driven productivity gains, but weaker in organizational change adoption.
+Underperformance Warning: Several projects in the Operations and Marketing sectors (e.g., "Match of Health", "Box of Crayons") show significant negative cost variances (marked in red). These projects are eroding the gains made by the top performers and require immediate governance intervention.
 
-This is critical because:
-- FTE savings directly impact Cost-to-Income Ratio
-- Overstated savings distort capital allocation decisions
+<img width="922" height="504" alt="image" src="https://github.com/user-attachments/assets/bd99ef78-8831-4459-8f26-7db9725f9f67" />
 
-3️⃣ ROI Distribution Across Portfolio
-
-🔎 Finding 3: ROI Concentration
-- Top 20% of projects contribute ~60–70% of total ROI.
-- Several low-ROI projects consume material capital.
-- Some high-priority projects show negative ROI at interim review.
-
-Board-Level Interpretation:
-The portfolio may be over-diversified with low-return initiatives.
-
-Capital may be better concentrated in:
-- High-automation programs
-- Customer acquisition & digital revenue projects
-- Data & analytics transformation initiatives
-<img width="960" height="529" alt="image" src="https://github.com/user-attachments/assets/cbab9896-c89b-44a6-81eb-a9837191773c" />
-
-4️⃣ Portfolio Prioritization Misalignment
-
-🔎 Finding 4: Priority vs Financial Return
-- Not all “High Priority” projects yield high ROI.
-- Some medium-priority projects outperform financially.
-
-Board-Level Interpretation:
-Prioritization may be based on:
-- Strategic narrative
-- Departmental influence
-- Regulatory pressure
-
-But not always on quantified value realization.
-
-<img width="922" height="506" alt="image" src="https://github.com/user-attachments/assets/1f111cb3-c47b-441b-9bc7-8ccfcb615fb6" />
-
-These metrics enable structured transformation oversight and capital discipline.
 
 ## Recommendations
 
