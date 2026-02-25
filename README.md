@@ -1,8 +1,7 @@
-# Bank Project Portfolio Analytics
-Author: Mark Roland Waje  
-Role Focus: Data Analytics | Banking Transformation | Portfolio Governance  
+# **Bank Project Portfolio Analytics**
+Portfolio Health • Benefits Realization • Capital Efficiency
 
-## Executive Summary
+## Executive Overview
 
 This project develops an integrated analytics framework to evaluate project portfolio performance, FTE savings realization, and capital efficiency within a banking environment.
 
@@ -52,8 +51,10 @@ These datasets were combined to simulate:
 - ROI distribution and prioritization visuals
 
 ## Executive Dashboard Storyboard
-<img width="962" height="539" alt="image" src="https://github.com/user-attachments/assets/a37223ab-b124-40dd-9792-712d92b37259" />
-
+<img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
+<img width="923" height="522" alt="image" src="https://github.com/user-attachments/assets/fb1c7b08-e50b-4e59-8c2e-fc047df68720" />
+<img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
+<img width="921" height="511" alt="image" src="https://github.com/user-attachments/assets/adaedddd-5f18-4a29-8e8e-ff9346124264" />
 
 ## Insights
 
