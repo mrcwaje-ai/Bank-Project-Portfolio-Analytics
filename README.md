@@ -38,13 +38,7 @@ These datasets were combined to simulate:
 - FTE savings modeling using salary data
 - ROI computation
 
-**2️⃣ Data Modeling — SQL (Mode.com)
-- Structured transformation
-- Aggregation by department, project type
-- Portfolio KPI generation
-- Prioritization scoring logic**
-
-3️⃣ Data Visualization — Power BI
+2️⃣ Data Visualization — Power BI
 - Executive-level dashboard design
 - Portfolio Overview page
 - Benefits Realization dashboard
