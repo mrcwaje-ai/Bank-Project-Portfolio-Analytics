@@ -26,6 +26,7 @@ Additionally, if projected FTE savings are overstated by even 10–20%, the assu
 In short, we are managing execution status — not value realization.
 
 Why the Board Should Care:
+
 This is fundamentally about:
 - Protecting shareholder capital
 - Improving portfolio-level ROI
@@ -34,6 +35,7 @@ This is fundamentally about:
 Without structured portfolio analytics, we risk continuing underperforming initiatives simply because they are in motion.
 
 What This Proposal Changes:
+
 This framework introduces, for the first time:
 - A quantified capital efficiency score per project
 - Measurable benefits realization tracking (Planned vs. Actual %)
