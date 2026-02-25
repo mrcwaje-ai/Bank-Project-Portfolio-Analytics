@@ -7,11 +7,45 @@ This project develops an integrated analytics framework to evaluate project port
 
 The objective is to shift from traditional project status reporting toward value-driven portfolio governance.
 
-Using Python, SQL, and Power BI, this project simulates how a Philippine bank can strengthen financial oversight of its strategic initiatives.
+Using Python and Power BI, this project simulates how a Philippine bank can strengthen financial oversight of its strategic initiatives.
 
 ## Problem Statement
 
-The bank lacks an integrated analytics framework to systematically monitor project portfolio performance, validate FTE savings realization, and prioritize capital allocation based on measurable ROI, resulting in potential capital inefficiency and overstated benefit projections.
+Today, we deploy significant capital across our project portfolio, yet we have no integrated mechanism — effectively 0% structured monitoring — to systematically measure whether capital allocation is optimized and benefits are actually realized.
+
+We approve projects based on projected ROI and FTE savings, but we do not consistently track:
+- Percentage of projected benefits realized post-implementation
+- Share of capital allocated to bottom-quartile ROI projects
+- Portfolio-level capital efficiency ratio
+- Variance trends before overruns become material
+
+If even 5–10% of portfolio capital is misallocated, the impact directly translates into diluted ROE, pressure on cost-to-income ratio, and weakened capital productivity.
+
+Additionally, if projected FTE savings are overstated by even 10–20%, the assumed operating leverage embedded in our financial planning becomes unreliable.
+
+In short:
+We are managing execution status — not value realization.
+
+**Why the Board Should Care
+**
+This is fundamentally about:
+- Protecting shareholder capital
+- Improving portfolio-level ROI
+- Enforcing benefits accountability
+- Strengthening capital allocation discipline
+Without structured portfolio analytics, we risk continuing underperforming initiatives simply because they are in motion.
+
+**What This Proposal Changes
+**
+This framework introduces, for the first time:
+- A quantified capital efficiency score per project
+- Measurable benefits realization tracking (Planned vs. Actual %)
+- Portfolio ROI concentration analysis
+- Early-warning variance dashboards
+- Scenario-based capital reallocation modeling
+We move from 0% structured value monitoring to a governance mechanism capable of tracking portfolio efficiency at 100% project coverage.
+
+This shifts portfolio oversight from reactive reporting to proactive capital optimization.
 
 ## Data
 
@@ -32,24 +66,23 @@ These datasets were combined to simulate:
 ## Methodology
 
 1️⃣ Data Engineering — Python (Google Colab)
-- Data cleaning
-- Dataset merging
-- Cost variance calculations
-- FTE savings modeling using salary data
-- ROI computation
+1. Data cleaning – Removed duplicates, handled missing values, standardized formats, and validated data integrity to ensure analytical accuracy.
+2. Dataset merging – Joined multiple project, financial, and HR datasets using common keys to create a unified analytical model.
+3. Cost variance calculations – Computed budget deviation by deriving the difference and percentage variance between planned and actual costs.
+4. FTE savings modeling using salary data – Estimated workforce savings by converting reduced FTE counts into monetary value using average salary benchmarks.
+5. ROI computation – Calculated return on investment by comparing realized financial benefits against total project cost.
 
 2️⃣ Data Visualization — Power BI
-- Executive-level dashboard design
-- Portfolio Overview page
-- Benefits Realization dashboard
-- ROI distribution and prioritization visuals
+1. Executive-level dashboard design – Built a structured, decision-focused reporting interface aligned to Board-level KPIs and strategic objectives.
+2. Portfolio Overview page – Developed high-level visuals summarizing capital allocation, project distribution, and overall performance health.
+3. Benefits Realization dashboard – Created analytics to track realized FTE savings, value delivery, and variance against targets.
+4. ROI distribution and prioritization visuals – Designed comparative visuals to identify high-return projects and support value-based capital allocation decisions.
 
 ## Executive Dashboard Storyboard
 <img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
 <img width="923" height="522" alt="image" src="https://github.com/user-attachments/assets/fb1c7b08-e50b-4e59-8c2e-fc047df68720" />
 <img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
 <img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
-
 
 ## Insights
 
