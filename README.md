@@ -16,7 +16,7 @@ We approve projects based on projected ROI and FTE savings, but we do not consis
 Using Python and Power BI, this project simulates how the bank can strengthen financial oversight of its strategic initiatives.
 
 
-##** Problem Statement**
+## **Problem Statement**
 
 Today, we deploy significant capital across our project portfolio, yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether capital allocation is optimized and benefits are actually realized.
 
