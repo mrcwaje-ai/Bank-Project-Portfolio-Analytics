@@ -7,23 +7,25 @@ This project develops an integrated analytics framework to evaluate project port
 
 The objective is to shift from traditional project status reporting toward value-driven portfolio governance.
 
-Using Python and Power BI, this project simulates how the bank can strengthen financial oversight of its strategic initiatives.
-
-## Problem Statement
-
-Today, we deploy significant capital across our project portfolio, yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether capital allocation is optimized and benefits are actually realized.
-
 We approve projects based on projected ROI and FTE savings, but we do not consistently track:
 - Percentage of projected benefits realized post-implementation
 - Share of capital allocated to bottom-quartile ROI projects
 - Portfolio-level capital efficiency ratio
 - Variance trends before overruns become material
 
-If **even 5–10% of portfolio capital is misallocated**, the impact **directly translates into diluted ROE**, **pressure on cost-to-income ratio**, and **weakened capital productivity**.
+Using Python and Power BI, this project simulates how the bank can strengthen financial oversight of its strategic initiatives.
+
+
+## Problem Statement
+
+Today, we deploy significant capital across our project portfolio, yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether capital allocation is optimized and benefits are actually realized.
+
+If even 5–10% of portfolio capital is misallocated, the impact directly translates into diluted ROE, pressure on cost-to-income ratio, and weakened capital productivity.
 
 Additionally, if projected FTE savings are overstated by even 10–20%, the assumed operating leverage embedded in our financial planning becomes unreliable.
 
 In short, we are managing execution status — not value realization, thus the need from _zero structured monitoring_ to **a 100%, fully-structured governance mechanism**.
+
 
 ## Data
 
@@ -41,6 +43,7 @@ These datasets were combined to simulate:
 - Estimated FTE savings impact
 - Revenue-related performance scenarios
 
+
 ## Methodology
 
 1️⃣ Data Engineering — Python (Google Colab)
@@ -55,6 +58,7 @@ These datasets were combined to simulate:
 2. Portfolio Overview page – Developed high-level visuals summarizing capital allocation, project distribution, and overall performance health.
 3. Benefits Realization dashboard – Created analytics to track realized FTE savings, value delivery, and variance against targets.
 4. ROI distribution and prioritization visuals – Designed comparative visuals to identify high-return projects and support value-based capital allocation decisions.
+
 
 ## Insights
 
@@ -78,6 +82,7 @@ Planned FTE savings exceed actual realization in several departments, signaling 
 Cost overrun patterns are clustered, not random — enabling targeted governance intervention.
 
 <img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
+
 
 ## Recommendations
 
@@ -105,6 +110,7 @@ Deploy variance heatmap to portfolio committee monthly reviews.
 Governance coverage to be achieved: 20%
 This introduces continuous monitoring, not periodic review.
 
+
 ## What This Proposal Changes:
 
 This framework introduces, for the first time:
@@ -117,6 +123,7 @@ This framework introduces, for the first time:
 We move from 0% structured value monitoring to a governance mechanism capable of tracking portfolio efficiency at 100% project coverage.
 
 This shifts portfolio oversight from reactive reporting to proactive capital optimization.
+
 
 ## Business Impact
 
