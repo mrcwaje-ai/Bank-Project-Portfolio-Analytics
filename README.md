@@ -88,7 +88,7 @@ Cost overrun patterns are clustered, not random — enabling targeted governance
 
 
 
-##** Recommendations**
+## **Recommendations**
 
 1️⃣ **Embed Value Governance in Stage Gates**
 
