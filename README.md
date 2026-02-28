@@ -93,11 +93,6 @@ Mandate 3–6 month post-implementation FTE savings validation.
 4️⃣ Implement Early Warning Dashboards
 Deploy variance heatmap to portfolio committee monthly reviews.
 
-5️⃣ Enable Scenario-Based Capital Planning
-Use What-If analysis to simulate ROI impact before approving incremental budget.
-
-<img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
-
 ## What This Proposal Changes:
 
 This framework introduces, for the first time:
