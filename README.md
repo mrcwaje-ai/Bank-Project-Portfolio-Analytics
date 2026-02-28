@@ -7,7 +7,7 @@ This project develops an integrated analytics framework to evaluate project port
 
 The objective is to shift from traditional project status reporting toward value-driven portfolio governance.
 
-Using Python and Power BI, this project simulates how a Philippine bank can strengthen financial oversight of its strategic initiatives.
+Using Python and Power BI, this project simulates how the bank can strengthen financial oversight of its strategic initiatives.
 
 ## Problem Statement
 
