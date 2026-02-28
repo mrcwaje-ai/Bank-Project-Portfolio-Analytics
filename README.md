@@ -86,35 +86,35 @@ Cost overrun patterns are clustered, not random — enabling targeted governance
 
 ## Recommendations
 
-1️⃣ Embed Value Governance in Stage Gates
+1️⃣ **Embed Value Governance in Stage Gates**
 
 Use ROI, FTE Realization %, and Cost Variance thresholds as continuation criteria.
 
-Governance coverage to be achieved: 30%
+_Governance coverage to be achieved: 30%_
 
 This establishes ex-ante control — preventing low-value projects from progressing unchecked.
 
-2️⃣ Reallocate Capital Using Efficiency Score
+2️⃣ **Reallocate Capital Using Efficiency Score**
 
 Shift funding toward high-efficiency projects identified in the Prioritization Engine page.
 
-Governance coverage to be achieved: 20%
+_Governance coverage to be achieved: 20%_
 
 This introduces portfolio-level optimization, not just project-level control.
 
-3️⃣ Institutionalize Benefits Validation
+3️⃣ **Institutionalize Benefits Validation**
 
 Mandate 3–6 month post-implementation FTE savings validation.
 
-Governance coverage to be achieved: 30%
+_Governance coverage to be achieved: 30%_
 
 This closes the largest blind spot — realized value verification.
 
-4️⃣ Implement Early Warning Dashboards
+4️⃣ **Implement Early Warning Dashboards**
 
 Deploy variance heatmap to portfolio committee monthly reviews.
 
-Governance coverage to be achieved: 20%
+_Governance coverage to be achieved: 20%_
 
 This introduces continuous monitoring, not periodic review.
 
