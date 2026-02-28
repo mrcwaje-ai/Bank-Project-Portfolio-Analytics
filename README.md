@@ -1,7 +1,7 @@
 # **Bank Project Portfolio Analytics**
 Portfolio Health • Benefits Realization • Capital Efficiency
 
-## Executive Overview
+**## Executive Overview**
 
 This project develops an integrated analytics framework to evaluate project portfolio performance, FTE savings realization, and capital efficiency within a banking environment.
 
@@ -16,7 +16,7 @@ We approve projects based on projected ROI and FTE savings, but we do not consis
 Using Python and Power BI, this project simulates how the bank can strengthen financial oversight of its strategic initiatives.
 
 
-## Problem Statement
+**## Problem Statement**
 
 Today, we deploy significant capital across our project portfolio, yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether capital allocation is optimized and benefits are actually realized.
 
@@ -27,7 +27,7 @@ Additionally, if projected FTE savings are overstated by even 10–20%, the assu
 In short, we are managing execution status — not value realization, thus the need from _zero structured monitoring_ to **a 100%, fully-structured governance mechanism**.
 
 
-## Data
+**## Data**
 
 - Project Management Dataset
 https://www.kaggle.com/datasets/mayarmohamedswilam/project-management
@@ -44,7 +44,7 @@ These datasets were combined to simulate:
 - Revenue-related performance scenarios
 
 
-## Methodology
+**## Methodology**
 
 1️⃣ Data Engineering — Python (Google Colab)
 1. Data cleaning – Removed duplicates, handled missing values, standardized formats, and validated data integrity to ensure analytical accuracy.
@@ -60,9 +60,9 @@ These datasets were combined to simulate:
 4. ROI distribution and prioritization visuals – Designed comparative visuals to identify high-return projects and support value-based capital allocation decisions.
 
 
-## Insights
+**## Insights**
 
-1️⃣ Capital Efficiency & ROI Concentration
+**1️⃣ Capital Efficiency & ROI Concentration**
 
 Portfolio ROI is positive, but capital concentration in low-efficiency projects limits overall performance.
 Top-performing projects generate disproportionate value, suggesting reallocation opportunities.
@@ -71,7 +71,7 @@ Top-performing projects generate disproportionate value, suggesting reallocation
 
 
  
-2️⃣ Benefits Realization Gap
+**2️⃣ Benefits Realization Gap**
 
 Planned FTE savings exceed actual realization in several departments, signaling need for post-implementation validation.
 
@@ -80,7 +80,7 @@ Planned FTE savings exceed actual realization in several departments, signaling 
 
 
 
-3️⃣ Variance Risk
+**3️⃣ Variance Risk**
 
 Cost overrun patterns are clustered, not random — enabling targeted governance intervention.
 
@@ -88,7 +88,7 @@ Cost overrun patterns are clustered, not random — enabling targeted governance
 
 
 
-## Recommendations
+**## Recommendations**
 
 1️⃣ **Embed Value Governance in Stage Gates**
 
@@ -123,7 +123,7 @@ _Governance coverage to be achieved: 20%_
 This introduces continuous monitoring, not periodic review.
 
 
-## What This Proposal Changes:
+**## What This Proposal Changes:**
 
 This framework introduces, for the first time:
 - A quantified capital efficiency score per project
@@ -137,7 +137,7 @@ We move from 0% structured value monitoring to a governance mechanism capable of
 This shifts portfolio oversight from reactive reporting to proactive capital optimization.
 
 
-## Business Impact
+**## Business Impact**
 
 If implemented:
 - Improved capital productivity
