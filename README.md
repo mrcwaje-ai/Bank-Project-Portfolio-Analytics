@@ -69,6 +69,7 @@ Top-performing projects generate disproportionate value, suggesting reallocation
 
 <img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
 
+
  
 2️⃣ Benefits Realization Gap
 
@@ -77,11 +78,14 @@ Planned FTE savings exceed actual realization in several departments, signaling 
 
 <img width="923" height="522" alt="image" src="https://github.com/user-attachments/assets/fb1c7b08-e50b-4e59-8c2e-fc047df68720" />
 
+
+
 3️⃣ Variance Risk
 
 Cost overrun patterns are clustered, not random — enabling targeted governance intervention.
 
 <img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
+
 
 
 ## Recommendations
