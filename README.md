@@ -82,12 +82,11 @@ These datasets were combined to simulate:
 1️⃣ Capital Efficiency
 Portfolio ROI is positive, but capital concentration in low-efficiency projects limits overall performance.
 
-<img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
-
 2️⃣ ROI Concentration
 Top-performing projects generate disproportionate value, suggesting reallocation opportunities.
 
-<img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
+<img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
+
  
 3️⃣ Benefits Realization Gap
 Planned FTE savings exceed actual realization in several departments, signaling need for post-implementation validation.
@@ -97,6 +96,8 @@ Planned FTE savings exceed actual realization in several departments, signaling 
 
 4️⃣ Variance Risk
 Cost overrun patterns are clustered, not random — enabling targeted governance intervention.
+
+<img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
 
 <img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
 
