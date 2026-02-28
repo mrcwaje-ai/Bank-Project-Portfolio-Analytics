@@ -79,27 +79,26 @@ These datasets were combined to simulate:
 
 ## Insights
 
-1️⃣ Capital Efficiency
-Portfolio ROI is positive, but capital concentration in low-efficiency projects limits overall performance.
+1️⃣ Capital Efficiency & ROI Concentration
 
-2️⃣ ROI Concentration
+Portfolio ROI is positive, but capital concentration in low-efficiency projects limits overall performance.
 Top-performing projects generate disproportionate value, suggesting reallocation opportunities.
 
 <img width="926" height="524" alt="image" src="https://github.com/user-attachments/assets/ae899586-ae5b-4453-80d9-d9783e7c4f2b" />
 
  
-3️⃣ Benefits Realization Gap
+2️⃣ Benefits Realization Gap
+
 Planned FTE savings exceed actual realization in several departments, signaling need for post-implementation validation.
 
 
 <img width="923" height="522" alt="image" src="https://github.com/user-attachments/assets/fb1c7b08-e50b-4e59-8c2e-fc047df68720" />
 
-4️⃣ Variance Risk
+3️⃣ Variance Risk
+
 Cost overrun patterns are clustered, not random — enabling targeted governance intervention.
 
 <img width="921" height="513" alt="image" src="https://github.com/user-attachments/assets/7a03d455-72d1-40f3-adea-f4d455e44475" />
-
-<img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
 
 ## Recommendations
 
@@ -117,6 +116,9 @@ Deploy variance heatmap to portfolio committee monthly reviews.
 
 5️⃣ Enable Scenario-Based Capital Planning
 Use What-If analysis to simulate ROI impact before approving incremental budget.
+
+<img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
+
 
 ## Business Impact
 
