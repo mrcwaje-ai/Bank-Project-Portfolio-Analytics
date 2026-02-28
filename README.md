@@ -11,7 +11,7 @@ Using Python and Power BI, this project simulates how a Philippine bank can stre
 
 ## Problem Statement
 
-Today, we deploy significant capital across our project portfolio, yet we have no integrated mechanism — effectively 0% structured monitoring — to systematically measure whether capital allocation is optimized and benefits are actually realized.
+Today, we deploy significant capital across our project portfolio, yet we have **no integrated mechanism — effectively 0% structured monitoring** — to systematically measure whether capital allocation is optimized and benefits are actually realized.
 
 We approve projects based on projected ROI and FTE savings, but we do not consistently track:
 - Percentage of projected benefits realized post-implementation
@@ -19,32 +19,11 @@ We approve projects based on projected ROI and FTE savings, but we do not consis
 - Portfolio-level capital efficiency ratio
 - Variance trends before overruns become material
 
-If even 5–10% of portfolio capital is misallocated, the impact directly translates into diluted ROE, pressure on cost-to-income ratio, and weakened capital productivity.
+If **even 5–10% of portfolio capital is misallocated**, the impact **directly translates into diluted ROE**, **pressure on cost-to-income ratio**, and **weakened capital productivity**.
 
 Additionally, if projected FTE savings are overstated by even 10–20%, the assumed operating leverage embedded in our financial planning becomes unreliable.
 
-In short, we are managing execution status — not value realization.
-
-Why the Board Should Care:
-
-This is fundamentally about:
-- Protecting shareholder capital
-- Improving portfolio-level ROI
-- Enforcing benefits accountability
-- Strengthening capital allocation discipline
-Without structured portfolio analytics, we risk continuing underperforming initiatives simply because they are in motion.
-
-What This Proposal Changes:
-
-This framework introduces, for the first time:
-- A quantified capital efficiency score per project
-- Measurable benefits realization tracking (Planned vs. Actual %)
-- Portfolio ROI concentration analysis
-- Early-warning variance dashboards
-- Scenario-based capital reallocation modeling
-We move from 0% structured value monitoring to a governance mechanism capable of tracking portfolio efficiency at 100% project coverage.
-
-This shifts portfolio oversight from reactive reporting to proactive capital optimization.
+In short, **we are managing execution status — not value realization**.
 
 ## Data
 
@@ -119,6 +98,18 @@ Use What-If analysis to simulate ROI impact before approving incremental budget.
 
 <img width="925" height="520" alt="image" src="https://github.com/user-attachments/assets/1a8a1277-b947-4733-a948-b11e21448de0" />
 
+What This Proposal Changes:
+
+This framework introduces, for the first time:
+- A quantified capital efficiency score per project
+- Measurable benefits realization tracking (Planned vs. Actual %)
+- Portfolio ROI concentration analysis
+- Early-warning variance dashboards
+- Scenario-based capital reallocation modeling
+
+We move from 0% structured value monitoring to a governance mechanism capable of tracking portfolio efficiency at 100% project coverage.
+
+This shifts portfolio oversight from reactive reporting to proactive capital optimization.
 
 ## Business Impact
 
